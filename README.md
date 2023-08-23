@@ -4,7 +4,7 @@ Experienced full-time developer skilled in Java Spring Boot and TypeScript React
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogm&hide=Objective-C,Cmake,M,CSS,html,Less,PHP&size_weight=0.5&count_weight=0.5&layout=compact)">
+  <a href="[https://picsum.photos/460/300](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogm&hide=Objective-C,Cmake,M,CSS,html,Less,PHP&size_weight=0.5&count_weight=0.5&layout=compact)">
 </p>
 
 <h3 align="left">Connect with me:</h3>
