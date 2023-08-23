@@ -1,4 +1,8 @@
-<h3 align="center"></h3>
+<h3 align="center">👨‍💻 Java Spring Boot & TypeScript React Developer | 🎓 Computer Graphics Enthusiast </h3>
+
+<p>
+Experienced full-time developer skilled in Java Spring Boot and TypeScript React. Proficient in constructing robust backends and user-friendly frontends. Currently pursuing a Master's degree in Computer Graphics with a specialization in physics simulation.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
