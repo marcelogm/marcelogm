@@ -1,9 +1,7 @@
 <h3 align="center">👨‍💻 Java Spring Boot & TypeScript React Developer | 🎓 Computer Graphics Enthusiast </h3>
-
 <p>
 Experienced full-time developer skilled in Java Spring Boot and TypeScript React. Proficient in constructing robust backends and user-friendly frontends. Currently pursuing a Master's degree in Computer Graphics with a specialization in physics simulation.
 </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marcelogm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcelogm/" height="30" width="40" /></a>
