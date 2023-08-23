@@ -3,7 +3,7 @@
 Experienced full-time developer skilled in Java Spring Boot and TypeScript React. Proficient in constructing robust backends and user-friendly frontends. Currently pursuing a Master's degree in Computer Graphics with a specialization in physics simulation.
 </p>
 
-!:[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogm&hide=Objective-C,Cmake,M,CSS,html,Less,PHP&size_weight=0.5&count_weight=0.5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogm&hide=Objective-C,Cmake,M,CSS,html,Less,PHP&size_weight=0.5&count_weight=0.5&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
