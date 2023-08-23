@@ -2,7 +2,11 @@
 <p align="center">
 Experienced full-time developer skilled in Java Spring Boot and TypeScript React. Proficient in constructing robust backends and user-friendly frontends. Currently pursuing a Master's degree in Computer Graphics with a specialization in physics simulation.
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogm&hide=Objective-C,Cmake,M,CSS,html,Less,PHP&size_weight=0.5&count_weight=0.5&layout=compact)
+
+<p align="center">
+  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogm&hide=Objective-C,Cmake,M,CSS,html,Less,PHP&size_weight=0.5&count_weight=0.5&layout=compact)">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marcelogm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcelogm/" height="30" width="40" /></a>
